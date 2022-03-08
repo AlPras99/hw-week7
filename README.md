@@ -25,7 +25,7 @@ SQL is used for accessing, updating and maintaining data in a database and MySQL
 AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal.  Cloud9 comes prepackaged with essential tools for popular programming languages, including JavaScript, Python, PHP, and more, so you don’t need to install files or configure your development machine to start new projects. Since your Cloud9 IDE is cloud-based, you can work on your projects from your office, home, or anywhere using an internet-connected machine. 
 Cloud9 also provides a seamless experience for developing serverless applications enabling you to easily define resources, debug, and switch between local and remote execution of serverless applications. With Cloud9, you can quickly share your development environment with your team, enabling you to pair program and track each other's inputs in real time.
 
-## goormIDE
+## GoormIDE
 goormIDE is developer-focused cloud IDE to maximize your productivity. Individuals can use goormIDE for open-source projects or personal use. Companies can also apply their platform-specific tools and their own specialized development processes. With goormIDE, you can develop software more efficiently in a business unit. For example, developers can share opinions in real time through communication functions and edit the source code at the same time.
 
 ## Tables
